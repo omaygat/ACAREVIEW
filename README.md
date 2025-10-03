@@ -1,6 +1,6 @@
-# Proyecto MERN
+# Proyecto
 
-> **Nombre del proyecto:** Nombre-del-proyecto
+> **Nombre del proyecto:** Revisor Automático de Escritura Académica
 
 ## Tabla de Contenido
 
