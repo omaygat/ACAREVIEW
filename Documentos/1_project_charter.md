@@ -4,10 +4,10 @@
 **Nombre del proyecto:** Revisor Automático de Escritura Académica  
 **Sponsor:** Jean Pierre Oscar Ramos Patricio.  
 **Gerente de Proyecto:** Fredy Quispe Villajuan.  
-**Fecha de documento:** 27/08/2025. fileciteturn0file1
+**Fecha de documento:** 27/08/2025. 
 
 ## 2. Visión
-Para estudiantes universitarios y docentes que necesitan mejorar la calidad de sus escritos académicos y detectar posibles plagios de manera rápida y confiable, el Revisor Automático de Escritura Académica es una plataforma colaborativa basada en IA que analiza textos, sugiere mejoras gramaticales y de estilo, verifica citaciones y genera reportes de originalidad de manera automatizada. fileciteturn0file8
+Para estudiantes universitarios y docentes que necesitan mejorar la calidad de sus escritos académicos y detectar posibles plagios de manera rápida y confiable, el Revisor Automático de Escritura Académica es una plataforma colaborativa basada en IA que analiza textos, sugiere mejoras gramaticales y de estilo, verifica citaciones y genera reportes de originalidad de manera automatizada. 
 
 ## 3. Objetivos (SMART)
 
