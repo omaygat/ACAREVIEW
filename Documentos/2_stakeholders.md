@@ -23,6 +23,3 @@ Basado en el informe del equipo y mejorado para cumplir la rúbrica. Fuente: Tal
 - Documentar decisiones en Confluence / repo. fileciteturn0file1  
 - Reuniones de seguimiento con Sponsor cada 2 semanas.  
 - Demo funcional al final de cada sprint y encuesta de satisfacción.
-
-> **SUGERENCIA:** completar contactos y correos de cada stakeholder y añadir un campo "Responsable sustituto" para continuidad.
-

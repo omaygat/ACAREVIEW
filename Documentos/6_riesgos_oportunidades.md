@@ -1,7 +1,5 @@
 # Riesgos y Oportunidades
 
-Basado en el registro del informe y extendido para cumplir la rúbrica. Fuente: Taller de Proyectos 2-semana 7.docx. fileciteturn0file9
-
 ## Riesgos (top 10 sugeridos)
 | ID | Riesgo | Probabilidad | Impacto | Severidad | Plan de Respuesta |
 |---:|---|---:|---:|---:|---|
@@ -21,4 +19,3 @@ Basado en el registro del informe y extendido para cumplir la rúbrica. Fuente: 
 - O2: Curación de corpus local para mejorar precisión en español peruano.  
 - O3: Ofrecer versión freemium para estudiantes y paga para instituciones.  
 
-> **SUGERENCIA:** completar la matriz de probabilidad-impacto con porcentajes y asignar responsables a cada plan de respuesta para cumplir la rúbrica (registro exhaustivo y seguimiento). fileciteturn0file11

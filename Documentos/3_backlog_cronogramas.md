@@ -1,6 +1,6 @@
 # Backlogs & Cronogramas
 
-Fuente: Backlog y planificación del informe (Tabla 2.1). fileciteturn0file5
+> falta-falta-falta-falta
 
 ## Épicas y Historias (resumen)
 - **EPIC01 - Carga y revisión básica**
@@ -34,6 +34,4 @@ Basado en su planificación original (5 sprints con inicio/fin). Ajusto a fechas
 | Sprint 3 | 31-Oct-2025 | 13-Nov-2025 | 14 | Editor con feedback en tiempo real, pruebas internas |
 | Sprint 4 | 14-Nov-2025 | 27-Nov-2025 | 14 | Integración, UI refinada, despliegue en staging |
 | Sprint 5 | 28-Nov-2025 | 11-Dec-2025 | 14 | Demo final, pruebas con usuarios, documentación y entrega |
-
-> Estas fechas son **propuesta** para alinear a 12 semanas de trabajo.
 

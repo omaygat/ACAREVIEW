@@ -1,9 +1,5 @@
 # Presupuesto estimado (Huancayo, Perú) - Iteración 0
 
-**Tipo de cambio utilizado:** 1 USD = 3.4764 PEN (valor referencial, fuente: Investing / exchange data). citeturn1search14
-
-> **Fuentes de precios consultadas:** DigitalOcean, Vercel, MongoDB Atlas, HostingPeru, VPS.com.pe, Render, OpenAI/Azure. (Citas al final). citeturn0search0turn0search1turn0search2turn0search12turn0search14turn0search15turn0search3
-
 ## Resumen mensual (costos operativos mínimos)
 
 | Item | Cantidad | Precio unitario | Moneda | Precio (PEN) |
@@ -26,12 +22,3 @@
 ## Notas
 - Los precios varían según promos, impuestos (IGV) y cambios de tipo de cambio. Se recomienda verificar los enlaces proporcionados antes de contratar.
 - Para el presupuesto del curso, suele aceptarse la alternativa "uso de cuentas gratuitas y pruebas locales" como opción válida; sin embargo, para producción conviene un plan pago mínimo.
-
-### Fuentes
-- DigitalOcean Droplets pricing. citeturn0search0  
-- Vercel Hobby plan (gratis). citeturn0search1  
-- MongoDB Atlas pricing (Free + paid tiers). citeturn0search2turn0search10  
-- Hosting Perú - dominios. citeturn0search12  
-- VPS.com.pe plan local (Huancayo-friendly). citeturn0search14  
-- Render free instances. citeturn0search15  
-- OpenAI / Azure pricing (referencia de APIs). citeturn0search3turn0search11
