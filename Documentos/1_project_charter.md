@@ -5,6 +5,15 @@
 **Sponsor:** Jean Pierre Oscar Ramos Patricio.  
 **Gerente de Proyecto:** Fredy Quispe Villajuan.  
 **Fecha de documento:** 27/08/2025. 
+| Nombre                        | Rol                       | Responsabilidades clave                                                                 |
+|-------------------------------|---------------------------|----------------------------------------------------------------------------------------|
+| Fredy Quispe Villajuan        | Gerente de Proyecto       | Lidera el proyecto, gestiona el cronograma, el presupuesto y los riesgos; es el punto de contacto principal con el sponsor; coordina a los líderes de equipo. |
+| Jeanpiere Oscar Ramos Patricio| Sponsor / Patrocinador    | Aprueba cambios, presupuestos y decisiones clave; defiende el proyecto ante la dirección universitaria; provee los recursos necesarios. |
+| Jeanpiere Oscar Ramos Patricio| Líder Técnico (UI/UX)     | Supervisa el diseño y desarrollo de la interfaz de usuario web, responsive y accesible. (*) |
+| Vianeth Anais Mallma Villanueva | Líder Técnico (API & NLP)| Responsable del desarrollo del core de la plataforma, integración de modelos de IA (NLP) y APIs. (*) |
+| George Russell Torres Geronimo | Líder de QA & Datos      | Gestiona el entrenamiento y prueba de los modelos de IA; supervisa la precisión del sistema y la integración de bases de datos académicas. (*) |
+| Thalia Alvarez Velasquez      | Consultor de Contenido    | Asegura que las sugerencias de estilo y citación se alineen con los estándares académicos. (*) |
+
 
 ## 2. Visión
 Para estudiantes universitarios y docentes que necesitan mejorar la calidad de sus escritos académicos y detectar posibles plagios de manera rápida y confiable, el Revisor Automático de Escritura Académica es una plataforma colaborativa basada en IA que analiza textos, sugiere mejoras gramaticales y de estilo, verifica citaciones y genera reportes de originalidad de manera automatizada. 
