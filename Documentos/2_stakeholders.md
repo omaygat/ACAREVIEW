@@ -16,7 +16,7 @@
 - **Medio poder / Medio interés:** Líderes técnicos, QA, TI.
 
 
-# Plan de Comunicación
+## Plan de Comunicación
 
 | Interesado               | Información principal                                    | Medio de comunicación                    | Frecuencia         |
 |---------------------------|----------------------------------------------------------|------------------------------------------|--------------------|
@@ -27,3 +27,23 @@
 | Comité de seguimiento    | Avances globales, métricas de desempeño, análisis de riesgos | Informes formales, reuniones de control | Bimensual          |
 | Comunidad académica externa | Resultados preliminares, publicaciones, buenas prácticas | Seminarios, conferencias, página web     | Trimestral         |
 | Usuarios piloto          | Experiencias de uso, encuestas de satisfacción, sugerencias | Encuestas en línea, entrevistas, foros   | Según etapa de prueba |
+
+
+## Riesgos Asociados a Interesados
+
+| Riesgo                                             | Impacto | Estrategia de mitigación                                                                 |
+|----------------------------------------------------|---------|-------------------------------------------------------------------------------------------|
+| Falta de participación de estudiantes en pruebas piloto | Alto    | Incentivar la colaboración con actividades prácticas y demostraciones de utilidad.        |
+| Resistencia de docentes al uso de IA en lo académico    | Medio   | Presentar evidencia de confiabilidad y compatibilidad con estándares académicos.          |
+| Limitada disposición institucional para adoptar la herramienta | Alto    | Elaborar informes de impacto institucional con beneficios claros y medibles.              |
+| Desajustes en la comunicación entre desarrollo y usuarios | Medio   | Reuniones periódicas de retroalimentación y uso de lenguaje claro.                        |
+
+
+## Relación de Interesados
+
+| Interesado        | Relación principal                                                      |
+|-------------------|-------------------------------------------------------------------------|
+| Estudiantes       | Retroalimentación con experiencias de uso y pruebas piloto              |
+| Docentes y tutores| Validan pertinencia académica y sugieren mejoras                        |
+| Instituciones     | Promueven adopción y establecen lineamientos de uso                     |
+| Equipo de desarrollo | Implementa ajustes técnicos en función de las necesidades identificadas |

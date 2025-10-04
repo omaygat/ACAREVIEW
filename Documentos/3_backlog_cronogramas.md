@@ -1,6 +1,18 @@
 # Backlogs & Cronogramas
 
-> falta-falta-falta-falta
+## Backlog General
+
+| ID  | User Story / Funcionalidad                                                   | Prioridad | Entregable esperado                    |
+|-----|------------------------------------------------------------------------------|-----------|----------------------------------------|
+| B1  | Como estudiante, quiero que el sistema detecte errores ortográficos          | Alta      | Módulo de corrección                   |
+| B2  | Como docente, quiero que el sistema sugiera mejoras de estilo académico      | Alta      | Módulo de sugerencias de estilo        |
+| B3  | Como investigador, quiero verificar el formato de cita (APA, MLA, IEEE)      | Media     | Módulo de validación de referencias    |
+| B4  | Como institución, quiero que el sistema detecte posibles plagios             | Alta      | Integración con detector de similitud  |
+| B5  | Como usuario, quiero que el sistema sea fácil de usar e intuitivo            | Alta      | Interfaz gráfica amigable              |
+| B6  | Como desarrollador, quiero contar con retroalimentación de pruebas de piloto | Media     | Reportes de pruebas con usuarios       |
+| B7  | Como tutor, quiero conocer informes de avance del proyecto                   | Media     | Reportes técnicos y académicos         |
+| B8  | Como institución, quiero que la herramienta sea adaptable a distintos idiomas| Baja      | Módulo multilingüe inicial             |
+
 
 ## Épicas y Historias (resumen)
 - **EPIC01 - Carga y revisión básica**
@@ -19,10 +31,6 @@
 - **EPIC04 - Gestión académica**
   - HU07: Crear assignments.
   - HU08: Ver reportes agregados.
-
-## Criterios de aceptación (ejemplos convertidos)
-- HU01: El sistema acepta un archivo DOCX/PDF y devuelve un token de revisión y vista previa en <5s.  
-- HU02.x: Para cada tipo de error detectado existe una sugerencia y un ejemplo de corrección; cobertura mínima 75% en pruebas internas.
 
 ## Planificación de Sprints (propuesta ajustada)
 Basado en su planificación original (5 sprints con inicio/fin). Ajusto a fechas realistas partiendo hoy (03-Oct-2025) y considerando 12 semanas (iteración propuesta):
