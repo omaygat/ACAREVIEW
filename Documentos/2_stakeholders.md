@@ -16,3 +16,14 @@
 - **Medio poder / Medio interés:** Líderes técnicos, QA, TI.
 
 
+# Plan de Comunicación
+
+| Interesado               | Información principal                                    | Medio de comunicación                    | Frecuencia         |
+|---------------------------|----------------------------------------------------------|------------------------------------------|--------------------|
+| Estudiantes              | Manual de uso, resultados de pruebas, avances            | Correo, talleres, plataforma              | Quincenal          |
+| Docentes y tutores       | Informes de validación, recomendaciones                  | Reuniones, correo                         | Mensual            |
+| Instituciones educativas | Beneficios institucionales, impacto académico            | Reportes ejecutivos, charlas              | Al cierre de fases |
+| Equipo de desarrollo     | Retroalimentación técnica y académica                    | Reuniones, chat interno                   | Semanal            |
+| Comité de seguimiento    | Avances globales, métricas de desempeño, análisis de riesgos | Informes formales, reuniones de control | Bimensual          |
+| Comunidad académica externa | Resultados preliminares, publicaciones, buenas prácticas | Seminarios, conferencias, página web     | Trimestral         |
+| Usuarios piloto          | Experiencias de uso, encuestas de satisfacción, sugerencias | Encuestas en línea, entrevistas, foros   | Según etapa de prueba |
