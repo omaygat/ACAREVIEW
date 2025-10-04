@@ -7,7 +7,7 @@
 | 3  | Vianeth Anais Mallma Villanueva | Líder de Desarrollo Front-end | Desarrollo de la lógica, base de datos y APIs | Medio            | Reuniones técnicas, documentación de arquitectura, reportes    | vianeth.backend@gmail.com |
 | 4  | George Russell Torres Geronimo | Líder de Calidad y Datos   | Validación de calidad, pruebas y consistencia  | Medio            | Reporte de pruebas, reuniones de revisión, dashboard de calidad | george.calidad@gmail.com |
 | 5  | Thalia Alvarez Velasquez       | Experto en Escritura Académica | Garantizar precisión y adecuación del contenido | Medio          | Revisión de contenido, feedback sobre mejoras                  | thalia.escritura@gmail.com |
-| 6  | — (por definir)                | Sponsor                    | Garantizar inversión y alineación              | Alto             | Reuniones ejecutivas, informes de progreso                     | —                         |
+| 6  | MONTES VELASQUEZ PATRICK ERICK | Sponsor                    | Garantizar inversión y alineación              | Alto             | Reuniones ejecutivas, informes de progreso                     | patrick.sponsor@gmail.com     |
 
 
 ## Matriz Poder / Interés (resumen)
