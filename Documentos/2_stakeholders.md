@@ -1,25 +1,18 @@
 # Registro de Interesados (Stakeholders)
 
-Basado en el informe del equipo y mejorado para cumplir la rúbrica. Fuente: Taller de Proyectos 2-semana 7.docx. fileciteturn0file1
+| N° | Nombre                         | Rol/Cargo                  | Interés en el Proyecto                         | Influencia/Poder | Estrategia y Comunicación                                      | Correo electrónico        |
+|----|--------------------------------|----------------------------|------------------------------------------------|------------------|----------------------------------------------------------------|---------------------------|
+| 1  | Fredy Quispe Villajuan         | Gerente de Proyecto        | Supervisar el avance general                   | Alto             | Reuniones semanales, reportes de estado                        | fredy.quispe@gmail.com    |
+| 2  | Jeanpiere Oscar Ramos Patricio | Líder de Desarrollo Back-end | Implementar la interfaz de usuario del sistema | Medio            | Reuniones técnicas, seguimiento de tareas, informes de avances | jeanpiere.ramos@gmail.com |
+| 3  | Vianeth Anais Mallma Villanueva | Líder de Desarrollo Front-end | Desarrollo de la lógica, base de datos y APIs | Medio            | Reuniones técnicas, documentación de arquitectura, reportes    | vianeth.backend@gmail.com |
+| 4  | George Russell Torres Geronimo | Líder de Calidad y Datos   | Validación de calidad, pruebas y consistencia  | Medio            | Reporte de pruebas, reuniones de revisión, dashboard de calidad | george.calidad@gmail.com |
+| 5  | Thalia Alvarez Velasquez       | Experto en Escritura Académica | Garantizar precisión y adecuación del contenido | Medio          | Revisión de contenido, feedback sobre mejoras                  | thalia.escritura@gmail.com |
+| 6  | — (por definir)                | Sponsor                    | Garantizar inversión y alineación              | Alto             | Reuniones ejecutivas, informes de progreso                     | —                         |
 
-| Stakeholder | Rol | Interés | Poder | Impacto | Estrategia de Comunicación | Frecuencia |
-|---|---:|---:|---:|---:|---|---:|
-| Sponsor - Jean Pierre Ramos | Sponsor / Aprobador | Alto | Alto | Alto | Reporte quincenal y aprobación de cambios de scope | Quincenal |
-| Gerente de Proyecto - Fredy Q. | PM / Coordinador | Alto | Alto | Alto | Daily stand-up, reportes semanales | Diario / Semanal |
-| Líder Técnico Frontend - Jeanpiere Ramos | Dev Lead UI/UX | Alto | Medio | Alto | Reunión técnica semanal, canal Slack | Semanal |
-| Líder Técnico Backend - Vianeth Mallma | Dev Lead API & NLP | Alto | Medio | Alto | Reunión técnica semanal, tablero Jira | Semanal |
-| QA & Datos - George Russell | QA / Datos | Alto | Medio | Alto | Reportes de pruebas y dashboards | Al final de cada sprint |
-| Consultor de Contenido - Thalia A. | Experto en escritura académica | Alto | Bajo | Medio | Revisión de criterios de aceptación y pruebas piloto | Mensual / Según necesidad |
-| Estudiantes (usuarios) | Usuarios finales | Alto | Bajo | Alto | Encuestas, pruebas de usabilidad, sesiones de feedback | Durante pilotos |
-| Docente / Universidad | Stakeholder institucional | Medio | Alto | Alto | Presentaciones formales, informes ejecutivos | Mensual |
-| Equipo de TI (infraestructura) | Soporte infra | Medio | Medio | Medio | Coordinación para despliegue y accesos | Bajo demanda |
 
 ## Matriz Poder / Interés (resumen)
 - **Alto poder / Alto interés:** Sponsor, Gerente de Proyecto.  
 - **Alto interés / Bajo poder:** Estudiantes, Consultor de Contenido.  
 - **Medio poder / Medio interés:** Líderes técnicos, QA, TI.
 
-## Plan de gestión de expectativas
-- Documentar decisiones en Confluence / repo. fileciteturn0file1  
-- Reuniones de seguimiento con Sponsor cada 2 semanas.  
-- Demo funcional al final de cada sprint y encuesta de satisfacción.
+
